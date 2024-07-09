@@ -1,0 +1,24 @@
+* {
+  font-family: Arial, Tahoma, Verdana, sans-serif;
+}
+
+body {
+  background-color: hsl(60deg, 100%, 85%);
+}
+
+h1, h2 {
+  font-family: cursive;
+  color: hsl(220deg, 90%, 30%);
+}
+
+ul li,
+ol li,
+p, a {
+  color: hsl(220deg, 15%, 15%);
+  font-size: 18px;
+  line-height: 35px;
+}
+
+ul li {
+  list-style-type: none;
+}
