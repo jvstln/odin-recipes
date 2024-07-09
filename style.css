@@ -22,3 +22,7 @@ p, a {
 ul li {
   list-style-type: none;
 }
+
+.center {
+  text-align: center;
+}
