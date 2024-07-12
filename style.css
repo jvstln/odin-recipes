@@ -54,12 +54,12 @@ ul li {
   vertical-align: top;
 }
 
-.foods {
+.navigation {
   background-color: hsl(60deg, 100%, 90%);
   margin: 16px 0;
 }
 
-.foods li {
+.navigation li {
   display: inline-block;
   padding: 16px;
 }
